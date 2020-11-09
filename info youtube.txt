@@ -1,0 +1,5 @@
+Class image 
+constructori destructori
+incarcare .h de pe net
+read e pur si simplu read 
+o enumeratie de pt tipul imaginii
